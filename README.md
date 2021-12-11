@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Axmhunter
+- 👀 I’m interested in bug hunting and pentesting 
+- 🌱 I’m currently learning ...
